@@ -1,3 +1,6 @@
+### 
+This is the forked RPM library where the T-pose (from the RPM API) is included at the start of the animation.
+
 <div align="left">
     <img src="https://assets-global.website-files.com/647798cf71ec2048ea89ab07/647817558bc1d570b250c81e_RPM-logo.svg" width="20%">
 </div>
